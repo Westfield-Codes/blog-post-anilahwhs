@@ -2,3 +2,13 @@
 
 
 /* NEW CSS HERE */
+table {
+    width:100%;
+}
+td {
+    width:50%;
+    background:black;
+}
+td img{
+    width:100%;
+}
