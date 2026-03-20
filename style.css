@@ -12,3 +12,26 @@ td{
 td img{
     width:100%;
 }
+body{
+     background-image:url(grid.jpg); 
+     background-repeat:no-repeat;
+     background-position:center;
+     background-attachment:fixed;
+    background-size:cover;
+     border:2px black;
+     width:700px;
+     min-height: 100%; 
+     margin: 0 auto; 
+     min-height: 100vh;
+     padding:10%;
+     font-family:"Garamond"
+}
+h1{
+    color:#252020;
+    border-radius:25px;
+    background-color:#aa8664;
+    padding:20px;
+    border-style:dotted;
+    border-width:thick;
+    border-color:#443b36;
+}
