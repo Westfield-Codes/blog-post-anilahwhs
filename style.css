@@ -19,11 +19,10 @@ body{
      background-attachment:fixed;
      background-size:cover;
      border:2px black;
-     width:700px;
-     min-height: 100%; 
+     width:900px;
+     min-height: 400%; 
      margin: 0 auto; 
      min-height: 100vh;
-     padding:10%;
      font-family:"Garamond"
 }
 h1{
@@ -36,8 +35,8 @@ h1{
     border-color:#75736A;
 }
  html{
-    height:200%;
-    width:200%;
+    height:100%;
+    width:100%;
     padding:4% 0;
     background:#ebe6d5;
 }
