@@ -49,3 +49,7 @@ img{
 a{
     color:#837d38;
 }
+img.rounded-circle {
+    width:60px;
+    height:60px;
+}
