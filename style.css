@@ -4,6 +4,7 @@
 /* NEW CSS HERE */
 table {
     width:100%;
+    border-collapse:collapse;
 }
 td{
     width:50%;
@@ -44,4 +45,7 @@ img{
     border-style:dotted;
     border-width:thick;
     opacity:0.5;
+}
+{
+    background-color:#DBD16C;
 }
