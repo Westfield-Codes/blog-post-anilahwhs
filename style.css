@@ -27,13 +27,13 @@ body{
      font-family:"Garamond"
 }
 h1{
-    color:#252020;
+    color:#212529;
     border-radius:25px;
-    background-color: #e2ddcc;
+    background-color:#f8f6ee;
     padding:20px;
     border-style:dotted;
     border-width:thick;
-    border-color:#75736A;
+    border-color:#b3c9ce;
 }
  html{
     height:100%;
@@ -45,6 +45,7 @@ img{
     border-style:dotted;
     border-width:thick;
     opacity:0.5;
+    border-color:darkseagreen;
 }
 a{
     color:#837d38;
@@ -52,4 +53,23 @@ a{
 img.rounded-circle {
     width:60px;
     height:60px;
+}
+h2 {
+     color:#212529;
+    border-radius:25px;
+    background-color: #f8f6ee;
+    padding:15px;
+    border-style:dotted;
+    border-width:thick;
+    border-color:#B4BD81;
+    width: 700px;;
+}
+div.card-body{
+    background-color: rgb(242, 240, 236);
+}
+div.card-header {
+    background-color:#dbcea4;
+}
+button.btn-primary{
+    background-color:#b3c9ce;
 }
