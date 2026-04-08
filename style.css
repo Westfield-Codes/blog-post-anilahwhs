@@ -34,6 +34,7 @@ h1{
     border-style:dotted;
     border-width:thick;
     border-color:#b3c9ce;
+    width: 640px;
 }
  html{
     height:100%;
@@ -44,7 +45,6 @@ h1{
 img{
     border-style:dotted;
     border-width:thick;
-    opacity:0.5;
     border-color:darkseagreen;
 }
 a{
@@ -62,7 +62,7 @@ h2 {
     border-style:dotted;
     border-width:thick;
     border-color:#B4BD81;
-    width: 700px;;
+    width:640px;
 }
 div.card-body{
     background-color: rgb(242, 240, 236);
